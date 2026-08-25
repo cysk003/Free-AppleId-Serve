@@ -8,7 +8,7 @@
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
-更新日期：**2026年8月21日**
+更新日期：**2026年8月25日**
 
 ## 活动通知
 
@@ -24,8 +24,9 @@
 4. 安卓用户访问外网：[Android手机APP推荐👍](#android手机app推荐)
 5. 客户端用户访问外网：[Windows、MacOS、Android、iOS客户端](#windowsmacosandroidios客户端)
 6. [免费机场、节点](#免费机场节点)
-7. [付费机场推荐](#付费机场推荐)：稳定省心
-8. 国外用户访问国内网络：[国外访问国内服务（一键回国）](#国外访问国内服务一键回国)
+7. [付费机场推荐](#付费机场推荐)：独享稳定省心
+8. [Just My Socks：独享富强服务](#JustMySocks懒人版)：搬瓦工官方富强服务，多条线路，IP不怕被墙
+9. 国外用户访问国内网络：[国外访问国内服务（一键回国）](#国外访问国内服务一键回国)
 
 点击文章右上角的三条横杠查看
 ![目录导航](./images/muludaohang.png)
@@ -42,7 +43,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 
 - [2026年电信移动联通官方大流量卡推荐, 不限速，超低价，快递包邮](https://www.wangdu.site/fuliyouhui/2112.html)
 
-- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2026年6月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
+- [dongyubin/IPTV](https://github.com/dongyubin/IPTV): 2026年8月更新📺IPTV电视直播源、APTV电视直播源、IPTV直播软件、超全中国+台港澳+海外IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6
 
 ## 友情赞助
 
@@ -51,8 +52,12 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 🔥推荐Ti子服务器
 
 - [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks-搬瓦工官方富强服务-不怕被墙.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2026年6月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [2026年8月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2026年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
+
+### Just My Socks 懒人版
+
+搬瓦工官方富强服务，多条线路，IP不怕被墙
 
 <details>
   <summary>Just My Socks 懒人版（只需2步，轻松富强上网，点我展开）</summary>
