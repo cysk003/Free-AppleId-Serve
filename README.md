@@ -316,14 +316,16 @@ Shadowrocket（俗称"小火箭"）是iOS平台上最受欢迎的 shadowrocket �
 
 |                          客户端名称                          |             支持系统             | 最后更新时间 |
 | :----------------------------------------------------------: | :------------------------------: | :----------: |
-| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://shop.wwkejishe.top/buy/6)）👍 |          iOS、Apple TV           |     2025     |
-| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2025     |
-| [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |          iOS、Apple TV           |     2024     |
-| [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |          iOS、Apple TV           |     2024     |
-| [Choc on the App Store](https://apps.apple.com/us/app/choc/id1582542227)：收费（$2.99），美区 |               iOS                |     2022     |
-|     [Surge](https://nssurge.com/)：收费（$49.99），美区      |            MacOS、iOS            |     2024     |
+| [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)、[App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)：收费（$2.99)，美区（[点击购买小火箭永久账号](https://shop.wwkejishe.top/buy/6)）👍 |          iOS、Apple TV           |     2026     |
+| [Quantumult X on the App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=iphone)：收费（$7.99），美区（[点击购买Quantumult X永久账号](https://fk.wangdu.site/buy/11)） |       MacOS、iOS、Apple TV       |     2026     |
+| [Loon on the App Store](https://apps.apple.com/us/app/loon/id1373567447?platform=iphone)：收费（$5.99），美区 |          iOS、Apple TV           |     2026     |
+| [Stash on the App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=iphone)：收费（$3.99），美区 |          iOS、Apple TV           |     2026     |
+|     [Surge](https://nssurge.com/)：收费（$49.99），美区      |            MacOS、iOS            |     2026     |
+|     [Clash Apple 原生客户端](https://clash.md/zh/)：美区     |         iOS、MacOS、TvOS         |     2026     |
+| [塔台](https://apps.apple.com/us/app/%E5%A1%94%E5%8F%B0/id6797458927?l=zh-Hans-CN)（[github地址](https://github.com/pengchujin/tower)）：收费（$1.99），美区，一款原生 SwiftUI iOS App，用来在设备本地管理机场订阅和自有节点，选择本机规则或手动下载 Self-Configuration，并生成 Surge、Stash/Clash、Shadowrocket、Loon、Quantumult X、Hiddify 和 Egern 配置。 |               iOS                |     2026     |
 |    [OneClick](https://github.com/oneclickearth/oneclick)     |            安卓、iOS             |     2022     |
 | [Wrap+](https://1.1.1.1/)：Cloudflare 公司开发的，[教程：Warp+ 24PB 无限流量密钥](#cloudflare-warp客户端使用教程) | Windows、MacOS、Linux、安卓、iOS |     2023     |
+| ~~[Choc on the App Store](https://apps.apple.com/us/app/choc/id1582542227)：收费（$2.99），美区~~ |               iOS                |     2022     |
 
 ### Clash系列
 
