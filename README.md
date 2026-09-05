@@ -5,7 +5,16 @@
 
 - [小火箭共享账号每日更新](https://ios.wwkejishe.top/)
 - 美区 AppleID 成品独享账号：[小火箭 Shadowrocket 成品号 美国区](https://shop.wwkejishe.top/buy/6)（付费共享号近期不稳定已下架，**账号购买后可以修改密码、密保，并永久使用**）
-- [【官方充值】ChatGPT Plus](https://shop.wwkejishe.top/buy/53)：支持使用Codex、GPT Image 2等与官方功能保持一致
+
+---
+
+- [【GPT充值】代充值1个月 ChatGPT PLUS](https://shop.wwkejishe.top/buy/53)：充值到个人账号，支持使用Codex、GPT Image 2、GPT-6 Astra等与官方功能保持一致
+- [【GPT充值】代充ChatGPT Pro 1个月 PRO 5x 100刀](https://shop.wwkejishe.top/buy/50)：充值到个人账号
+- [【GPT充值】代充ChatGPT Pro 1个月 PRO 质保售后版 x20 200刀](https://shop.wwkejishe.top/buy/51) ：充值到个人账号
+
+>**使用的时候如果需要手机号接码验证，需要自行解决该问题，该情况为官方风控账号，跟订阅无关。**
+>
+>⚠️请注意:如果账号被封禁则无法质保,一般是账号或者使用问题，无法处理。
 
 ![Free-AppleId-Serve](https://socialify.git.ci/dongyubin/Free-AppleId-Serve/image?description=1&descriptionEditable=%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABShadowrocket%EF%BC%88%E5%B0%8F%E7%81%AB%E7%AE%AD%EF%BC%89%E8%B4%A6%E5%8F%B7%2CQuantumult%20X%EF%BC%8C%E5%9C%88x%EF%BC%8Cstash%EF%BC%8C%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%EF%BC%8C%F0%9F%9A%80%20%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%8C%F0%9F%9A%80%20%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%E4%B8%80%E6%AC%A1&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
@@ -53,7 +62,7 @@ TG群：[wwkjs888](https://t.me/wwkjs888)（进群不定期更新免费订阅节
 ## 🔥推荐Ti子服务器
 
 - [Just My Socks 免搭建，直接使用富强服务👍](./JustMySocks-搬瓦工官方富强服务-不怕被墙.md)（[国内可访问版本，有需要的可以收藏到书签里](https://help.wwkejishe.top/justmysocks)）
-- [2026年8月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
+- [2026年9月国外高性价比便宜 VPS 推荐(稳定、好用、免费体验)](https://bestvps.wwkejishe.top/tutorial-vps/choose-vps)：可自行 [Google搭建Ti子](https://home.wwkejishe.top/search/racknerd%E6%90%AD%E5%BB%BA%E6%A2%AF%E5%AD%90)
 - [2026年VPS推荐 （自用、稳定、靠谱、便宜有性价比）](https://www.wangdu.site/bestvps)（[RackNerd](https://www.wangdu.site/fuliyouhui/1266.html)、[CloudCone](https://www.wangdu.site/fuliyouhui/2115.html)、[EthernetServers](https://www.wangdu.site/fuliyouhui/2116.html)、[DMIT](https://www.wangdu.site/?golink=aHR0cHM6Ly93d3cuZG1pdC5pby9hZmYucGhwP2FmZj03OTUy) 多家VPS价格动态对比表格）
 
 ### Just My Socks 懒人版
