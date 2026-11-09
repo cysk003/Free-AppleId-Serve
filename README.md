@@ -3,7 +3,7 @@
 
 [国内可访问版本，内容与本页面一致，有需要的可以收藏到书签里](https://help.wwkejishe.top/free-shadowrocket)
 
-更新日期：**2026年11月6日**
+更新日期：**2026年11月9日**
 
 ## 免费共享小火箭账号、永久shadowrocket账号
 
@@ -156,9 +156,9 @@ PS：最好月付，防止跑路！
 
 ### 云界线
 
-[云界线](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No) （60+节点，流媒体全解锁！全节点解锁chatgpt！）
+[云界线](https://itxh888.yunjiexianaff.com/#/?code=BAZI2UhW) （60+节点，流媒体全解锁！全节点解锁chatgpt！）
 
-- [官网地址](https://itxh888.yunjiexianaff.com/#/?code=wqRJd4No)
+- [官网地址](https://itxh888.yunjiexianaff.com/#/?code=BAZI2UhW)
 
 >**新客享受7折优惠. 收单低至13.92**
 >
